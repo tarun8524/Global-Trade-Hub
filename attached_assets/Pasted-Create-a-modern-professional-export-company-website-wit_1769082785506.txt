@@ -1,0 +1,101 @@
+Create a modern, professional export company website with the theme:
+“India’s Diversity, Delivered Globally.”
+
+Purpose of the Website:
+The website should clearly communicate that this company specializes in exporting any product sourced from India based on customer requests. The company connects global buyers with the right manufacturers, artisans, and suppliers across India.
+
+Business Description:
+This is an India-based export business that can procure and export:
+
+Handloom and powerloom fabrics
+
+Sarees and ethnic wear
+
+Clothing and fashion accessories
+
+Handicrafts and artisanal products
+
+Agricultural and specialty goods
+
+Any product sourced from any region of India, on demand
+
+The company ensures authentic sourcing, quality verification, ethical suppliers, logistics handling, and global delivery.
+
+Tone & Style:
+
+Premium, trustworthy, and global
+
+Modern design with Indian cultural elements
+
+Use Indian tricolor accents (saffron, white, green) subtly
+
+Clean typography and export-focused visuals
+
+Website Structure:
+
+Hero Section
+
+Bold headline: “India’s Diversity, Delivered Globally”
+
+Subheading: “From local artisans to global markets — we export anything India offers.”
+
+Call-to-action buttons: “Request a Product” and “Talk to an Export Expert”
+
+About Us
+
+Explain the mission: bridging Indian producers with global buyers
+
+Emphasize trust, sourcing expertise, and end-to-end export handling
+
+What We Export
+
+Grid or cards showing categories: Textiles, Sarees, Apparel, Handicrafts, Agro Products, Custom Sourcing
+
+Mention: “If it exists in India, we can export it for you.”
+
+How It Works
+
+Step 1: You tell us what you need
+
+Step 2: We source from verified Indian suppliers
+
+Step 3: Quality checks and compliance
+
+Step 4: Packaging, logistics, and global delivery
+
+Why Choose Us
+
+Pan-India sourcing network
+
+Trusted suppliers & artisans
+
+Export documentation & compliance
+
+Transparent pricing
+
+Global shipping support
+
+Request a Product / Contact Section
+
+Simple form: Product Name, Quantity, Country, Email, Message
+
+Emphasize quick response and personalized sourcing
+
+Footer
+
+Tagline: “Delivering India to the World”
+
+Contact info, social links, copyright
+
+Technology Requirements:
+
+Use HTML, CSS, and JavaScript
+
+Responsive for mobile, tablet, and desktop
+
+Clean, export-ready corporate layout
+
+Suitable for future backend integration
+
+Overall Goal:
+Any visitor should instantly understand that this company can export ANY product from India on request, with trust, authenticity, and global reach
